@@ -1,2 +1,2 @@
-<div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="270" src="https://giphy.com/embed/98XnsgOboTjALj8Hli/video" width="480"></iframe></div>
+<img src="https://media4.giphy.com/media/NGI1wsFFsf06nDORyH/giphy.gif?cid=ecf05e47a43f8548b6fccb0a86b12f1c565f414d5028a48e&rid=giphy.gif&ct=g" width="100%">
 # EdgeOfChaos
